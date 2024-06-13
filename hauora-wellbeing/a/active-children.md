@@ -65,5 +65,3 @@ Your children look up to you, if you're physically active every day, this will m
 - Māori/Pacifica health workers and/or marae-based health services.
 
 This video is based on He Pī Ka Rere, Toi Tanagata’s under-fives movement programme run through kohanga reo. He Pī Ka Rere uses the traditional movements of pūngāwerewere (spiders) and mokomoko (lizards) to inspire tamariki to be active. This video may take a few moments to load.
-
-(Ministry of Health, NZ, 2018)

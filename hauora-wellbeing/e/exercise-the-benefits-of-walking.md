@@ -1,134 +1,3 @@
-[Skip to main content](exercise-the-benefits-of-walking/#main)
-
-- [Healthify on Instagram](https://www.instagram.com/healthify_hepunawaiora/ 'Follow us on Instagram')
-- [Healthify on Facebook](https://facebook.com/healthifyhepunawaiora 'Follow us on Facebook')
-
-![logo black](https://healthify.nz/assets/Uploads/logo-black.png)
-
-[![logo orange v2](https://healthify.nz/assets/Uploads/logo-orange-v2.png%20%22logo%20orange%20v2%22)](https://healthify.nz/)
-
-Search
-
-Search this website
-
-- [Health A–Z](/health-a-z/)
-  Show submenu for Health A–Z
-- - [A](/health-a-z/a/)
-  - [B](/health-a-z/b/)
-  - [C](/health-a-z/c/)
-  - [D](/health-a-z/d/)
-  - [E](/health-a-z/e/)
-  - [F](/health-a-z/f/)
-  - [G](/health-a-z/g/)
-  - [H](/health-a-z/h/)
-  - [I](/health-a-z/i/)
-  - [J](/health-a-z/j/)
-  - [K](/health-a-z/k/)
-  - [L](/health-a-z/l/)
-  - [M](/health-a-z/m/)
-  - [N](/health-a-z/n/)
-  - [O](/health-a-z/o/)
-  - [P](/health-a-z/p/)
-  - [Q](/health-a-z/q/)
-  - [R](/health-a-z/r/)
-  - [S](/health-a-z/s/)
-  - [T](/health-a-z/t/)
-  - [U](/health-a-z/u/)
-  - [V](/health-a-z/v/)
-  - [W](/health-a-z/w/)
-  - [X](/health-a-z/x/)
-  - [Z](/health-a-z/z/)
-- [Medicines A–Z](/medicines-a-z/)
-  Show submenu for Medicines A–Z
-- - [A](/medicines-a-z/a/)
-  - [B](/medicines-a-z/b/)
-  - [C](/medicines-a-z/c/)
-  - [D](/medicines-a-z/d/)
-  - [E](/medicines-a-z/e/)
-  - [F](/medicines-a-z/f/)
-  - [G](/medicines-a-z/g/)
-  - [H](/medicines-a-z/h/)
-  - [I](/medicines-a-z/i/)
-  - [J](/medicines-a-z/j/)
-  - [K](/medicines-a-z/k/)
-  - [L](/medicines-a-z/l/)
-  - [M](/medicines-a-z/m/)
-  - [N](/medicines-a-z/n/)
-  - [O](/medicines-a-z/o/)
-  - [P](/medicines-a-z/p/)
-  - [Q](/medicines-a-z/q/)
-  - [R](/medicines-a-z/r/)
-  - [S](/medicines-a-z/s/)
-  - [T](/medicines-a-z/t/)
-  - [U](/medicines-a-z/u/)
-  - [V](/medicines-a-z/v/)
-  - [W](/medicines-a-z/w/)
-  - [X](/medicines-a-z/x/)
-  - [Y](/medicines-a-z/y/)
-  - [Z](/medicines-a-z/z/)
-- [Hauora Wellbeing](/hauora-wellbeing/)
-  Show submenu for Hauora Wellbeing
-- - [A](/hauora-wellbeing/a/)
-  - [B](/hauora-wellbeing/b/)
-  - [C](/hauora-wellbeing/c/)
-  - [D](/hauora-wellbeing/d/)
-  - [E](/hauora-wellbeing/e/)
-  - [F](/hauora-wellbeing/f/)
-  - [G](/hauora-wellbeing/g/)
-  - [H](/hauora-wellbeing/h/)
-  - [I](/hauora-wellbeing/i/)
-  - [K](/hauora-wellbeing/k/)
-  - [L](/hauora-wellbeing/l/)
-  - [M](/hauora-wellbeing/m/)
-  - [N](/hauora-wellbeing/n/)
-  - [O](/hauora-wellbeing/o/)
-  - [P](/hauora-wellbeing/p/)
-  - [R](/hauora-wellbeing/r/)
-  - [S](/hauora-wellbeing/s/)
-  - [T](/hauora-wellbeing/t/)
-  - [V](/hauora-wellbeing/v/)
-  - [W](/hauora-wellbeing/w/)
-  - [Y](/hauora-wellbeing/y/)
-  - [Z](/hauora-wellbeing/z/)
-- [Care & Support](/care-and-support/)
-- [App Library](/app-library/)
-- [Tools](/tools/)
-  Show submenu for Tools
-- - [A](/tools/a/)
-  - [B](/tools/b/)
-  - [C](/tools/c/)
-  - [D](/tools/d/)
-  - [E](/tools/e/)
-  - [F](/tools/f/)
-  - [G](/tools/g/)
-  - [H](/tools/h/)
-  - [I](/tools/i/)
-  - [J](/tools/j/)
-  - [K](/tools/k/)
-  - [L](/tools/l/)
-  - [M](/tools/m/)
-  - [N](/tools/n/)
-  - [O](/tools/o/)
-  - [P](/tools/p/)
-  - [R](/tools/r/)
-  - [S](/tools/s/)
-  - [T](/tools/t/)
-  - [W](/tools/w/)
-- [Donate](/donate/)
-
-Search
-
-Search this website
-
-Low or no data? Visit [zero.govt.nz](https://portal.zero.govt.nz/0ecf2ab113c023c8de862f3822ad4687/)
-, scroll down the page then click on our logo to return to our site and browse for free.
-
-×
-
-1.  [Home](home)
-2.  [Hauora Wellbeing](/hauora-wellbeing/)
-3.  [E](/hauora-wellbeing/e/)
-
 # Exercise and the benefits of walking
 
 ### Key points about the benefits of walking
@@ -138,17 +7,7 @@ Low or no data? Visit [zero.govt.nz](https://portal.zero.govt.nz/0ecf2ab113c023c
 - Walking can also contribute to the Ministry of Health’s recommended amount of physical activity per week for adults and children.
 - There are lots of reasons to make walking a regular part of your everyday life.
 
-![Family walking dog on the beach NZ HN 950x690](https://healthify.nz/assets/NZ-outdoors/Family-walking-dog-on-beach-Healthify-950x690.png)
-
-[Print this page](#)
-
-Open all Close all
-
 #### How does regular walking help? (+ VIDEO)
-
-![Group of women tramping in the New Zealand bush](https://healthify.nz/assets/Legacy/18044/trampers-old-ghost-road-hn-665x443__ResizedImageWzYwMCw0MDBd.jpg)
-
-_Image credit: Healthify He Puna Waiora_
 
 Making walking part of your regular routine helps reduce the risk of:
 
@@ -160,18 +19,15 @@ Making walking part of your regular routine helps reduce the risk of:
 
 It also improves your:
 
-- [heart rate](/health-a-z/p/pulse-and-heart-rate-how-to-check/)
+- heart rate
    and circulation
 - muscle strength
-- bone strength, which decreases your risk of [osteoporosis](/health-a-z/o/osteoporosis/)
-- balance, which reduces the risk and severity of [falls](/hauora-wellbeing/f/falls-prevention/)
+- bone strength, which decreases your risk of osteoporosis
+- balance, which reduces the risk and severity of falls
 - use of energy, which helps you maintain a healthy weight
 - overall health and wellbeing
 - self-esteem
-- [stress levels.](/health-a-z/s/stress/)
-
-[This list shows the effect of physical activity(external link)](https://www.health.govt.nz/your-health/healthy-living/food-activity-and-sleep/physical-activity/types-activity 'Open external link')
-on the prevention of different health conditions and reduction of symptoms.
+- stress levels.
 
 Walking at a brisk pace for 10 minutes or more brings more health benefits. You can warm up and cool down by walking slowly at the beginning and end of your walk.
 
@@ -180,8 +36,6 @@ Obviously, you can walk alone or you can arrange to walk with friends or whānau
 **Tip**: If you arrange to meet a friend at a specific time and place, or set a walking date with a whānau member or partner, it can give you the motivation to ‘show up’. Having a companion to chat to while you walk can make the steps fly by.
 
 Try walking different routes to keep it interesting – you never know what you’ll discover when you’re out and about.
-
-#### Video: Wendy Suzuki: The brain-changing benefits of exercise | TED
 
 **Watch this video on the brain changing benefits of exercise.** It may take a few moments to load.
 
@@ -215,7 +69,7 @@ Gentle movement like walking can get your digestive system moving, helping food 
 
 Improved blood glucose management
 
-Post-meal exercise has been shown to be particularly helpful for people with [type 1 or 2 diabetes](/health-a-z/d/diabetes-overview/)
+Post-meal exercise has been shown to be particularly helpful for people with type 1 or 2 diabetes
 , since these conditions make it harder for your body to manage blood glucose. However, nearly everyone can benefit from the blood-glucose-lowering effects of light walking after each meal.
 
 ####
@@ -230,12 +84,12 @@ Exercise helps your heart pump more efficiently. This reduces the pressure on yo
 
 **LDL cholesterol**
 
-This is the "bad" [cholesterol](/health-a-z/c/cholesterol-topics/)
+This is the "bad" cholesterol
 that can build up and clog your arteries, increasing your risk of heart problems. Exercise helps your body clear out this LDL cholesterol, making way for more "good" HDL cholesterol, which helps protect your arteries.
 
 **Stroke and heart attack**
 
-By lowering [blood pressure](/health-a-z/b/blood-pressure/)
+By lowering blood pressure
 and cholesterol, exercise reduces the risk of these 2 serious health threats. It also strengthens your heart muscle and improves blood flow, making it less likely for clots to form and block arteries.
 
 ####
@@ -265,10 +119,6 @@ You can also incorporate more walking into your day by doing these things:
 - Joining a walking school bus.
 - Walking your dog (or your neighbour's) before or after work.
 - Play with your tamariki, that way they get some exercise too.
-
-_![Woman walking with three dogs on leads](https://healthify.nz/assets/Healthy-Living/Exercise/Woman-walking-three-dogs-canva-950x690__ResizedImageWzYwMCw0MzZd.jpg)_
-
-_Image credit: Canva_
 
 #### If mobility is a problem
 
@@ -301,165 +151,7 @@ You may not notice any benefits straight away from becoming a regular walker, bu
 
 Aotearoa New Zealand is full of great places to walk – both short and long walks. Visit your local council website for ideas on where to walk in your area.
 
-Also, check out [Green Prescription,](/hauora-wellbeing/g/green-prescriptions/)
+Also, check out Green Prescription,
  a free health and wellness support service to help you and your whānau improve health and wellbeing. The service includes support for getting more active.
 
 Please visit a healthcare provider if you have any questions or concerns about increasing your exercise levels or starting a new fitness programme.
-
-#### Related topics on Healthify
-
-[Everyday exercise](/hauora-wellbeing/e/exercise-how-to-get-moving-more-every-day/ 'Everyday exercise')
-
-[Body size and health](/health-a-z/o/obesity/ 'Body size and health')
-
-[Food and exercise help you manage type 2 diabetes](/health-a-z/d/diabetes-type-2-food-and-exercise/ 'Food and exercise help you manage type 2 diabetes')
-
-[Risk factors for heart disease](/health-a-z/h/heart-disease-risk-factors/)
-
-[Stroke | Mate rehu ohotata](/health-a-z/s/stroke/ 'Stroke | Mate rehu ohotata')
-
-#### More information
-
-[Te Hikuwai resources for wellbeing – physical activity(external link)](https://www.tepou.co.nz/resources/te-hikuwai-resources-for-wellbeing-physical-activity 'Open external link')
-Te Pou, NZ
-
-#### References
-
-1.  [How much activity is recommended?(external link)](https://www.health.govt.nz/your-health/healthy-living/food-activity-and-sleep/physical-activity/how-much-activity-recommended 'Open external link')
-    HealthEd, NZ
-2.  [Walking after eating(external link)](https://www.healthline.com/nutrition/walking-after-eating 'Open external link')
-    Healthline, US, 2020
-
-## Need help now?
-
-[![Healthline logo in supporters block](https://healthify.nz/assets/Affiliate-Images/Healthline-Supporters-Block__ResizedImageWzMwMCwxNTBd.png)](https://www.healthy.org.nz/ 'Contact Healthline ')
-
-[![Need to talk logo](https://healthify.nz/assets/Affiliate-Images/Need-to-talk-1737-logo-800x400__ResizedImageWzMwMCwxNTBd.png)](https://1737.org.nz/ 'Contact 1737')
-
-[![Healthpoint logo](https://healthify.nz/assets/Affiliate-Images/Health-Point__ResizedImageWzMwMCwxNTBd.png)](https://www.healthpoint.co.nz/ 'Healthpoint website')
-
-[Share on facebook](http://facebook.com/sharer/sharer.php?u=https://healthify.nz/hauora-wellbeing/e/exercise-the-benefits-of-walking/)
-
-[Email](mailto:?subject=Exercise – the benefits of walking | Healthify&body=%0D%0A%0D%0Ahttps://healthify.nz/hauora-wellbeing/e/exercise-the-benefits-of-walking/.)
-
-[Share on Linked In](https://www.linkedin.com/sharing/share-offsite/?&url=https://healthify.nz/hauora-wellbeing/e/exercise-the-benefits-of-walking/)
-
-Credits: Healthify editorial team. Healthify is brought to you by Health Navigator Charitable Trust.
-
-Page last updated: 31 Jan 2024
-
-Read more at: https://healthify.nz/hauora-wellbeing/e/exercise-the-benefits-of-walking/
-
-Healthify is brought to you by Health Navigator Charitable Trust ![image](https://healthify.nz/assets/Uploads/image.png)
-
-[![Healthify He Puna Waiora logo in orange](https://healthify.nz/assets/Affiliate-Images/Healthify-Logo-Orange__ResizedImageWzI1MSwxMjRd.png)](/)
-
-[![](https://healthify.nz/assets/Affiliate-Images/Brought-to-you-by.png)](/about-health-navigator-charitable-trust/)
-
-[Home](/)
-
-[Health A–Z](/health-a-z/)
-
-[Medicines A–Z](/medicines-a-z/)
-
-[Hauora Wellbeing](/hauora-wellbeing/)
-
-[Care & Support](/care-and-support/)
-
-[App Library](/app-library/)
-
-[Tools](/tools/)
-
-[News](/news/)
-
-[Newsletters](/about-health-navigator-charitable-trust/stay-informed/#newsletters)
-
-[About Healthify](/about-healthify/)
-
-[How to use Healthify](/about-healthify/how-to-use-healthify/ 'How to use the Healthify He Puna Waiora website')
-
-[About Health Navigator Charitable Trust](/about-health-navigator-charitable-trust/)
-
-[Accessibility](/about-healthify/our-policies/#accessibility)
-
-Privacy & Cookies Policy
-
-[Disclaimer](/about-healthify/our-policies/)
-
-[Contact](/contact-us/)
-
-[Donate](/donate/)
-
-[zero.govt.nz](https://portal.zero.govt.nz/0ecf2ab113c023c8de862f3822ad4687/ 'Zero data link')
-
-[For Healthcare Providers](/healthcare-providers/)
-
-[Regional HealthPathways NZ](/healthcare-providers/r/regional-healthpathways-links-hcps/)
-
-[Self-Management Support](https://www.smstoolkit.nz/)
-
-[Translations](/translations/)
-
-[Medicine Brand Changes, Factsheets & Videos](/medicines-a-z/m/medicine-brand-changes-factsheets-and-videos/)
-
-[Te Kete Haerenga](/tools/t/te-kete-haerenga-wellness-toolkit/)
-
-
-
-[![RNZCGP logo showing endorsement of Healthify](https://healthify.nz/assets/Affiliate-Images/RNZCGP_Endorsed_GUIDANCE_logo_Exp-31-Mar-2027__ResizedImageWzE3MCwxNzBd.png)](/about-healthify/why-you-can-trust-us/ 'rnzcgp-endorsement')
-
-Scroll to Top
-
-[![shielded](https://healthify.nz/_resources/themes/catalyst-starter/dist/img/shielded_site_logo.png?m=1713823254)](#)
-
-© 2024 Health Navigator Charitable Trust CC36318. All rights reserved.
-
-TED
-
-24.5M subscribers
-
-[Wendy Suzuki: The brain-changing benefits of exercise | TED](https://www.youtube.com/watch?v=BHY0FxzoKZE)
-
-TED
-
-Search
-
-Watch later
-
-Share
-
-Copy link
-
-Info
-
-Shopping
-
-Tap to unmute
-
-If playback doesn't begin shortly, try restarting your device.
-
-You're signed out
-
-Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
-
-CancelConfirm
-
-More videos
-
-## More videos
-
-Share
-
-Include playlist
-
-An error occurred while retrieving sharing information. Please try again later.
-
-[Watch on](https://www.youtube.com/watch?v=BHY0FxzoKZE&embeds_referring_euri=https%3A%2F%2Fhealthify.nz%2F&feature=emb_imp_woyt)
-
-0:00
-
-0:00 / 13:03•Live
-
-•
-
-[](https://www.youtube.com/watch?v=BHY0FxzoKZE 'Watch on YouTube')
